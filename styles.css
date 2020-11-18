@@ -1,0 +1,30 @@
+div{
+  color : black;
+  width: 360px;
+  text-align: center  ;
+  position : center right ;
+  border: 5px groove brown ;
+  padding : 20px;
+  margin: 28px;
+  top : 350px;
+  left : 550px;
+  position : relative;
+  }
+  
+div:hover {
+background-color: red;
+color : white;
+font-size : 20px;
+font-weight: bold;
+}
+
+body{
+ background-color : whithe; 
+background-image: url("never-give-up-.jpg");
+background-position : left top;
+background-repeat: no-repeat;
+  background-size: 25% 90% ;
+}
+  body:hover {
+    background-color : blue;
+  }
